@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-About me
+##About me
 ======
 Now I'm a Phd student supervised by Guodong Li in SAAS HKU. My current interests include deep learning and reinforcement learning. Also I do some reserach about time series.
 
-Education
+##Education
 ======
 Phd Student in HKU (2021-)
 
 Bsc Student in PKU (2017-2021)
 
-Research
+##Research
 ------
 1. Reinforcement Learning
 2. Deep Learning and Semiparametric Statistics
 
-For more info
+##For more info
 ------
 More info about me is in my [github](https://github.com/liuqs111).
