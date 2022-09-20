@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Mr. LIU Qinshuo"
   avatar           : "profile.png"
-  bio              : # "biography"
-  location         : "SAAS, HKU"
+  bio              : "phd student"
+  bio              : "HKU SAAS"
+  location         : "HK"
   HKU Department   : "https://saasweb.hku.hk"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
