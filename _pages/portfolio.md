@@ -3,6 +3,7 @@ layout: archive
 title: "Project"
 permalink: /portfolio/
 author_profile: true
+---
 
 ---
 Solve Integral Equation with Deep Learning
