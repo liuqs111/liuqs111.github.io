@@ -4,19 +4,19 @@ main:
     url: /publications/
 
   - title: "Experience"
-    url: /talks/    
+    url: /experience/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Project"
-    url: /portfolio/
+    url: /project/
         
   #- title: "Blog Posts"
     #url: /year-archive/
     
   - title: "People"
-    url: /cv/
+    url: /people/
     
   - title: "Contact"
-    url: /markdown/
+    url: /contact/
