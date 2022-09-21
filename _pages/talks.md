@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Experience"
+permalink: /talks/
 author_profile: true
 ---
 
